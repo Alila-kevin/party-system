@@ -1,0 +1,15 @@
+D:\C#\objectcsharp\objectcsharp\bin\Debug\net7.0\objectcsharp.exe
+D:\C#\objectcsharp\objectcsharp\bin\Debug\net7.0\objectcsharp.deps.json
+D:\C#\objectcsharp\objectcsharp\bin\Debug\net7.0\objectcsharp.runtimeconfig.json
+D:\C#\objectcsharp\objectcsharp\bin\Debug\net7.0\objectcsharp.dll
+D:\C#\objectcsharp\objectcsharp\bin\Debug\net7.0\objectcsharp.pdb
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.csproj.AssemblyReference.cache
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.AssemblyInfoInputs.cache
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.AssemblyInfo.cs
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.csproj.CoreCompileInputs.cache
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.dll
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\refint\objectcsharp.dll
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.pdb
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\objectcsharp.genruntimeconfig.cache
+D:\C#\objectcsharp\objectcsharp\obj\Debug\net7.0\ref\objectcsharp.dll
