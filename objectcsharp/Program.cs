@@ -19,6 +19,7 @@
         }
     }
 }
+// mother classes
 public class details
 {
     public int id;
